@@ -1,7 +1,7 @@
 - 👋 Hi, I am Full stack python developer. 
 - 👀 My main skill is Django, Flask, FastAPI and React/Vue.js. I know about ML and DL.
 - 🌱 I’m currently learning chabot and chatGPT.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I would like to make many friends in everyday life.
 - 📫 How to reach me ...
 
 <!---
